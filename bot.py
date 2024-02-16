@@ -135,10 +135,10 @@ def comment_page(driver, urls, comment):
 def random_comment():
     # You can edit these lines if you want to add more comments===================================
     comments = [
-        'Loved it',
-        'Hello',
-        '-loved it-',
-        '_good job_'
+        'In a few hours, your heart will stop beating... the only way to prevent this is to subscribe to my channel...',
+        'WORST VIDEO EVER MY VIDEOS ARE BETTER',
+        'Every video you watch from these people will make you lose IQ. gain IQ back by watching my curated videos and subscribing',
+        'read more                                     subscribe to me or i will send you into the stratosphere'
 
     ]
 # =============================================================================================
